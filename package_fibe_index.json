@@ -13,7 +13,7 @@
           "architecture": "samd",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/Bernator/ArduinoBoards/blob/master/FIBE_Boards.tar.bz2",
+          "url": "https://raw.githubusercontent.com/Bernator/ArduinoBoards/master/FIBE_Boards.tar.bz2",
           "archiveFileName": "FIBE_Boards.tar.bz2",
           "checksum": "SHA-256:f4ef541d689262a7a73feaa74ae1a145c9fb3677ac67c322aa757aac896e2418",
           "size": "1358012",
