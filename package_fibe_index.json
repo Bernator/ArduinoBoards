@@ -1,0 +1,59 @@
+{
+  "packages":
+  [
+    {
+      "name": "FIBE SAMD Boards",
+      "maintainer": "FIBE",
+      "websiteURL": "",
+      "email" : "",
+      "platforms":
+      [
+        {
+          "name": "Robo HAT Boards",
+          "architecture": "samd",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "url": "https://github.com/Bernator/ArduinoBoards/blob/master/FIBE_Boards.zip",
+          "archiveFileName": "FIBE_Boards.zip",
+          "checksum": "SHA-256:44f145fb333b0f801b8899a4136b0e5726fbe4d6bf81ddec0b62a20eb8ae12d6",
+          "size": "1674118",
+          "boards": [
+            {
+              "name": "Samd51 KNX Controler"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "4.8.3-2014q1"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.8.0-48-gb176eee"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.9.0-arduino"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            }
+          ]
+        }
+      ],
+      "tools":
+      [
+      ]
+    }
+  ]
+}
