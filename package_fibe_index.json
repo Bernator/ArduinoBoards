@@ -9,7 +9,7 @@
       "platforms":
       [
         {
-          "name": "Robo HAT Boards",
+          "name": "Samd51 KNX Controler",
           "architecture": "samd",
           "version": "1.0.0",
           "category": "Contributed",
