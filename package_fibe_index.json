@@ -13,10 +13,10 @@
           "architecture": "samd",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/Bernator/ArduinoBoards/blob/master/FIBE_Boards.zip",
-          "archiveFileName": "FIBE_Boards.zip",
-          "checksum": "SHA-256:44f145fb333b0f801b8899a4136b0e5726fbe4d6bf81ddec0b62a20eb8ae12d6",
-          "size": "1674118",
+          "url": "https://github.com/Bernator/ArduinoBoards/blob/master/FIBE_Boards.tar.bz2",
+          "archiveFileName": "FIBE_Boards.tar.bz2",
+          "checksum": "SHA-256:f4ef541d689262a7a73feaa74ae1a145c9fb3677ac67c322aa757aac896e2418",
+          "size": "1358012",
           "boards": [
             {
               "name": "Samd51 KNX Controler"
