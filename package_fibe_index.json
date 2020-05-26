@@ -4,8 +4,8 @@
     {
       "name": "FIBE SAMD Boards",
       "maintainer": "FIBE",
-      "websiteURL": "",
-      "email" : "",
+      "websiteURL": "www",
+      "email" : "test@gmx.com",
       "platforms":
       [
         {
