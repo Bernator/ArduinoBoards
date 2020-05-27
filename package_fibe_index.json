@@ -2,10 +2,10 @@
   "packages":
   [
     {
-      "name": "FIBE SAMD Boards",
+      "name": "FIBE Boards",
       "maintainer": "FIBE",
-      "websiteURL": "www",
-      "email" : "test@gmx.com",
+      "websiteURL": "https://github.com/Bernator/ArduinoBoards",
+      "email" : "",
       "platforms":
       [
         {
@@ -15,8 +15,8 @@
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/Bernator/ArduinoBoards/master/FIBE_Boards.tar.bz2",
           "archiveFileName": "FIBE_Boards.tar.bz2",
-          "checksum": "SHA-256:f4ef541d689262a7a73feaa74ae1a145c9fb3677ac67c322aa757aac896e2418",
-          "size": "1358012",
+          "checksum": "SHA-256:2045677e9f674ee433203f43951f0da8034ce562ff88076aa9e564f1e66c32f5",
+          "size": "1357911",
           "boards": [
             {
               "name": "Samd51 KNX Controler"
